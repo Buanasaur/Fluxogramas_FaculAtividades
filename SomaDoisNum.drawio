@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.17">
   <diagram id="lY5VT98dAd1EK0WhE_sf" name="Page-2">
-    <mxGraphModel dx="1788" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1533" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,6 +70,24 @@
         </mxCell>
         <mxCell id="djg5CImKxkGWJsq5V7vE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.582;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="djg5CImKxkGWJsq5V7vE-8" target="djg5CImKxkGWJsq5V7vE-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djg5CImKxkGWJsq5V7vE-41" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Python&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=25;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="530" y="55" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="djg5CImKxkGWJsq5V7vE-42" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;print(&quot;Digite um numero&quot;)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="430" y="185" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="djg5CImKxkGWJsq5V7vE-43" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;print(&quot;Digite outro numero&quot;)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="435" y="405" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="djg5CImKxkGWJsq5V7vE-44" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;num1 = int(input())&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="475" y="285" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="djg5CImKxkGWJsq5V7vE-45" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;num2 = int(input())&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="470" y="495" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="djg5CImKxkGWJsq5V7vE-46" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;soma= num1 + num2&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="460" y="595" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
